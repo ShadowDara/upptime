@@ -10,6 +10,8 @@ sites:
     url: https://shadowdara.42web.io/
   - name: no fucking CORS - Vercel
     url: https://no-fucking-cors.vercel.app
+  - name: Watch Nexo Knights
+    url: https://watchnexoknights.vercel.app
 
 status-website:
   baseUrl: /upptime
