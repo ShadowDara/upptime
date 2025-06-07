@@ -16,9 +16,9 @@ sites:
 status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Shadowdara / Upptime
+  introTitle: "The **Status Page** for Shadowdara's projects!"
+  introMessage: This Website contains my projects websites and shows a history of their down- and response-times.
   navbar:
     - title: Status
       href: /$REPO
