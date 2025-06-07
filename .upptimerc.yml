@@ -12,6 +12,8 @@ sites:
     url: https://no-fucking-cors.vercel.app
   - name: Watch Nexo Knights
     url: https://watchnexoknights.vercel.app
+  - name: Zug fahren
+    url: https://zug-fahren.rf.gd
 
 status-website:
   baseUrl: /upptime
