@@ -9,11 +9,13 @@ sites:
   - name: Shadowdara - Infinityfree
     url: https://shadowdara.42web.io/
   - name: no fucking CORS - Vercel
-    url: https://no-fucking-cors.vercel.app
+    url: https://no-fucking-cors.vercel.app/
   - name: Watch Nexo Knights
-    url: https://watchnexoknights.vercel.app
+    url: https://watchnexoknights.vercel.app/
   - name: Zug fahren
-    url: https://zug-fahren.rf.gd
+    url: https://zug-fahren.rf.gd/
+  - name: Zug fahren tmp
+    url: https://zug-fahren-tp.vercel.app/
 
 status-website:
   baseUrl: /upptime
