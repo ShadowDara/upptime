@@ -4,19 +4,19 @@
     "url": "https://shadowdara.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/shadowdara.vercel.app.ico",
     "slug": "shadowdara-vercel",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 165,
-    "timeDay": 63,
-    "timeWeek": 145,
-    "timeMonth": 155,
+    "timeDay": 112,
+    "timeWeek": 147,
+    "timeMonth": 156,
     "timeYear": 165,
     "dailyMinutesDown": {
-      "2025-07-11": 0
+      "2025-07-11": 11
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://repo-database-creator.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/repo-database-creator.vercel.app.ico",
     "slug": "repo-database-creator-vercel",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 156,
-    "timeDay": 74,
-    "timeWeek": 121,
-    "timeMonth": 160,
-    "timeYear": 156,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 155,
+    "timeDay": 90,
+    "timeWeek": 119,
+    "timeMonth": 159,
+    "timeYear": 155,
     "dailyMinutesDown": {
-      "2025-07-11": 0
+      "2025-07-11": 11
     }
   },
   {
@@ -69,19 +69,19 @@
     "url": "https://no-fucking-cors.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/no-fucking-cors.vercel.app.ico",
     "slug": "no-fucking-cors-vercel",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 153,
-    "timeDay": 119,
-    "timeWeek": 159,
+    "timeDay": 132,
+    "timeWeek": 158,
     "timeMonth": 152,
     "timeYear": 153,
     "dailyMinutesDown": {
-      "2025-07-11": 0
+      "2025-07-11": 11
     }
   },
   {
@@ -89,19 +89,19 @@
     "url": "https://watchnexoknights.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/watchnexoknights.vercel.app.ico",
     "slug": "watch-nexo-knights",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 146,
-    "timeDay": 125,
-    "timeWeek": 137,
-    "timeMonth": 136,
-    "timeYear": 146,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 147,
+    "timeDay": 159,
+    "timeWeek": 144,
+    "timeMonth": 138,
+    "timeYear": 147,
     "dailyMinutesDown": {
-      "2025-07-11": 0
+      "2025-07-11": 11
     }
   },
   {
@@ -133,19 +133,19 @@
     "url": "https://zug-fahren-tp.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/zug-fahren-tp.vercel.app.ico",
     "slug": "zug-fahren-tmp",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 145,
-    "timeDay": 186,
-    "timeWeek": 152,
+    "timeDay": 150,
+    "timeWeek": 147,
     "timeMonth": 141,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2025-07-11": 0
+      "2025-07-11": 11
     }
   }
 ]
