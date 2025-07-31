@@ -4,6 +4,8 @@ repo: upptime
 sites:
   - name: Shadowdara - Vercel
     url: https://shadowdara.vercel.app/
+  - name: Minecrafttools
+    url: https://minecrafttools.vercel.app/
   - name: Repo Database Creator - Vercel
     url: https://repo-database-creator.vercel.app/
   - name: Shadowdara - Infinityfree
