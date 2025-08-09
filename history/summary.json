@@ -4,9 +4,9 @@
     "url": "https://shadowdara.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/shadowdara.vercel.app.ico",
     "slug": "shadowdara-vercel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.97%",
@@ -16,6 +16,7 @@
     "timeMonth": 170,
     "timeYear": 169,
     "dailyMinutesDown": {
+      "2025-08-09": 0,
       "2025-07-26": 16,
       "2025-07-15": 23
     }
@@ -25,9 +26,9 @@
     "url": "https://minecrafttools.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/minecrafttools.vercel.app.ico",
     "slug": "minecrafttools",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,16 +37,18 @@
     "timeWeek": 148,
     "timeMonth": 187,
     "timeYear": 187,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-09": 0
+    }
   },
   {
     "name": "Repo Database Creator - Vercel",
     "url": "https://repo-database-creator.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/repo-database-creator.vercel.app.ico",
     "slug": "repo-database-creator-vercel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.97%",
@@ -55,6 +58,7 @@
     "timeMonth": 150,
     "timeYear": 155,
     "dailyMinutesDown": {
+      "2025-08-09": 0,
       "2025-07-26": 16,
       "2025-07-15": 23
     }
@@ -65,11 +69,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/shadowdara.42web.io.ico",
     "slug": "shadowdara-infinityfree",
     "status": "up",
-    "uptime": "98.58%",
+    "uptime": "98.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.88%",
-    "uptimeYear": "98.58%",
+    "uptimeYear": "98.59%",
     "time": 799,
     "timeDay": 613,
     "timeWeek": 630,
@@ -95,9 +99,9 @@
     "url": "https://no-fucking-cors.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/no-fucking-cors.vercel.app.ico",
     "slug": "no-fucking-cors-vercel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.97%",
@@ -107,6 +111,7 @@
     "timeMonth": 149,
     "timeYear": 152,
     "dailyMinutesDown": {
+      "2025-08-09": 0,
       "2025-07-26": 16,
       "2025-07-15": 23
     }
@@ -116,9 +121,9 @@
     "url": "https://watchnexoknights.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/watchnexoknights.vercel.app.ico",
     "slug": "watch-nexo-knights",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.96%",
@@ -128,6 +133,7 @@
     "timeMonth": 137,
     "timeYear": 143,
     "dailyMinutesDown": {
+      "2025-08-09": 0,
       "2025-07-26": 16,
       "2025-07-15": 23
     }
@@ -138,11 +144,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/zug-fahren.rf.gd.ico",
     "slug": "zug-fahren",
     "status": "up",
-    "uptime": "99.62%",
+    "uptime": "99.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
-    "uptimeYear": "99.62%",
+    "uptimeYear": "99.63%",
     "time": 663,
     "timeDay": 637,
     "timeWeek": 591,
@@ -165,9 +171,9 @@
     "url": "https://zug-fahren-tp.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/zug-fahren-tp.vercel.app.ico",
     "slug": "zug-fahren-tmp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.96%",
@@ -177,6 +183,7 @@
     "timeMonth": 180,
     "timeYear": 163,
     "dailyMinutesDown": {
+      "2025-08-09": 0,
       "2025-07-26": 16,
       "2025-07-15": 23
     }
