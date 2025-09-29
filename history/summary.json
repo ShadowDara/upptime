@@ -89,18 +89,19 @@
     "url": "https://shadowdara.42web.io/",
     "icon": "https://icons.duckduckgo.com/ip3/shadowdara.42web.io.ico",
     "slug": "shadowdara-infinityfree",
-    "status": "up",
-    "uptime": "98.18%",
-    "uptimeDay": "69.86%",
-    "uptimeWeek": "76.53%",
-    "uptimeMonth": "92.33%",
-    "uptimeYear": "98.18%",
+    "status": "down",
+    "uptime": "98.21%",
+    "uptimeDay": "79.04%",
+    "uptimeWeek": "76.73%",
+    "uptimeMonth": "92.44%",
+    "uptimeYear": "98.21%",
     "time": 801,
-    "timeDay": 663,
+    "timeDay": 656,
     "timeWeek": 789,
     "timeMonth": 802,
     "timeYear": 801,
     "dailyMinutesDown": {
+      "2025-09-29": 1,
       "2025-09-28": 452,
       "2025-09-27": 302,
       "2025-09-26": 292,
@@ -111,7 +112,7 @@
       "2025-09-21": 229,
       "2025-09-20": 357,
       "2025-09-19": 243,
-      "2025-09-18": 104
+      "2025-09-18": 53
     }
   },
   {
@@ -175,18 +176,19 @@
     "url": "https://zug-fahren.rf.gd/",
     "icon": "https://icons.duckduckgo.com/ip3/zug-fahren.rf.gd.ico",
     "slug": "zug-fahren",
-    "status": "up",
-    "uptime": "97.99%",
-    "uptimeDay": "70.20%",
-    "uptimeWeek": "77.63%",
-    "uptimeMonth": "92.50%",
-    "uptimeYear": "97.99%",
+    "status": "down",
+    "uptime": "98.00%",
+    "uptimeDay": "79.40%",
+    "uptimeWeek": "77.83%",
+    "uptimeMonth": "92.55%",
+    "uptimeYear": "98.00%",
     "time": 745,
-    "timeDay": 746,
+    "timeDay": 727,
     "timeWeek": 773,
     "timeMonth": 755,
     "timeYear": 745,
     "dailyMinutesDown": {
+      "2025-09-29": 0,
       "2025-09-28": 450,
       "2025-09-27": 282,
       "2025-09-26": 288,
@@ -197,7 +199,7 @@
       "2025-09-21": 224,
       "2025-09-20": 350,
       "2025-09-19": 225,
-      "2025-09-18": 164
+      "2025-09-18": 144
     }
   },
   {
