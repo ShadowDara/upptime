@@ -105,11 +105,11 @@
     "url": "https://shadowdara.42web.io/",
     "icon": "https://icons.duckduckgo.com/ip3/shadowdara.42web.io.ico",
     "slug": "shadowdara-infinityfree",
-    "status": "up",
+    "status": "down",
     "uptime": "98.97%",
-    "uptimeDay": "80.73%",
+    "uptimeDay": "80.69%",
     "uptimeWeek": "84.70%",
-    "uptimeMonth": "91.41%",
+    "uptimeMonth": "91.48%",
     "uptimeYear": "98.97%",
     "time": 827,
     "timeDay": 683,
@@ -117,6 +117,7 @@
     "timeMonth": 805,
     "timeYear": 827,
     "dailyMinutesDown": {
+      "2026-01-31": 1,
       "2026-01-30": 277,
       "2026-01-29": 87,
       "2026-01-28": 274,
@@ -139,7 +140,7 @@
       "2026-01-10": 145,
       "2026-01-09": 71,
       "2026-01-08": 128,
-      "2026-01-07": 141
+      "2026-01-07": 106
     }
   },
   {
@@ -148,18 +149,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/no-fucking-cors.vercel.app.ico",
     "slug": "no-fucking-cors-vercel",
     "status": "up",
-    "uptime": "91.85%",
+    "uptime": "91.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "33.39%",
-    "uptimeYear": "91.85%",
+    "uptimeMonth": "33.26%",
+    "uptimeYear": "91.84%",
     "time": 155,
     "timeDay": 381,
     "timeWeek": 168,
     "timeMonth": 146,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2026-01-31": 108,
+      "2026-01-31": 165,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
@@ -235,18 +236,19 @@
     "url": "https://zug-fahren.rf.gd/",
     "icon": "https://icons.duckduckgo.com/ip3/zug-fahren.rf.gd.ico",
     "slug": "zug-fahren",
-    "status": "up",
-    "uptime": "98.92%",
-    "uptimeDay": "80.86%",
+    "status": "down",
+    "uptime": "98.93%",
+    "uptimeDay": "80.84%",
     "uptimeWeek": "84.85%",
-    "uptimeMonth": "91.56%",
-    "uptimeYear": "98.92%",
+    "uptimeMonth": "91.64%",
+    "uptimeYear": "98.93%",
     "time": 793,
     "timeDay": 743,
     "timeWeek": 701,
     "timeMonth": 730,
     "timeYear": 793,
     "dailyMinutesDown": {
+      "2026-01-31": 0,
       "2026-01-30": 276,
       "2026-01-29": 86,
       "2026-01-28": 272,
@@ -269,7 +271,7 @@
       "2026-01-10": 144,
       "2026-01-09": 69,
       "2026-01-08": 113,
-      "2026-01-07": 139
+      "2026-01-07": 104
     }
   },
   {
