@@ -105,19 +105,19 @@
     "url": "https://shadowdara.42web.io/",
     "icon": "https://icons.duckduckgo.com/ip3/shadowdara.42web.io.ico",
     "slug": "shadowdara-infinityfree",
-    "status": "up",
-    "uptime": "98.68%",
-    "uptimeDay": "80.38%",
-    "uptimeWeek": "84.74%",
-    "uptimeMonth": "87.63%",
-    "uptimeYear": "98.68%",
+    "status": "down",
+    "uptime": "98.70%",
+    "uptimeDay": "80.33%",
+    "uptimeWeek": "84.73%",
+    "uptimeMonth": "87.82%",
+    "uptimeYear": "98.70%",
     "time": 825,
     "timeDay": 758,
     "timeWeek": 866,
     "timeMonth": 828,
     "timeYear": 825,
     "dailyMinutesDown": {
-      "2026-03-05": 168,
+      "2026-03-05": 169,
       "2026-03-04": 114,
       "2026-03-03": 322,
       "2026-03-02": 299,
@@ -144,7 +144,7 @@
       "2026-02-09": 120,
       "2026-02-08": 64,
       "2026-02-07": 154,
-      "2026-02-06": 256
+      "2026-02-06": 174
     }
   },
   {
@@ -156,7 +156,7 @@
     "uptime": "87.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "64.48%",
+    "uptimeMonth": "64.86%",
     "uptimeYear": "87.25%",
     "time": 155,
     "timeDay": 122,
@@ -255,12 +255,12 @@
     "url": "https://zug-fahren.rf.gd/",
     "icon": "https://icons.duckduckgo.com/ip3/zug-fahren.rf.gd.ico",
     "slug": "zug-fahren",
-    "status": "up",
-    "uptime": "98.61%",
-    "uptimeDay": "80.51%",
+    "status": "down",
+    "uptime": "98.62%",
+    "uptimeDay": "80.48%",
     "uptimeWeek": "84.86%",
-    "uptimeMonth": "87.66%",
-    "uptimeYear": "98.61%",
+    "uptimeMonth": "87.71%",
+    "uptimeYear": "98.62%",
     "time": 801,
     "timeDay": 696,
     "timeWeek": 907,
@@ -294,8 +294,7 @@
       "2026-02-09": 119,
       "2026-02-08": 63,
       "2026-02-07": 153,
-      "2026-02-06": 255,
-      "2026-02-05": 23
+      "2026-02-06": 255
     }
   },
   {
