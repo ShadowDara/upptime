@@ -2,20 +2,30 @@ owner: shadowdara
 repo: upptime
 
 sites:
+  - name: samengine
+    url: https://samengine.vercel.app/
+    
   - name: Shadowdara - Vercel
     url: https://shadowdara.vercel.app/
+    
   - name: Minecrafttools
     url: https://minecrafttools.vercel.app/
+    
   - name: Repo Database Creator - Vercel
     url: https://repo-database-creator.vercel.app/
+    
   - name: Shadowdara - Infinityfree
     url: https://shadowdara.42web.io/
+    
   - name: no fucking CORS - Vercel
     url: https://no-fucking-cors.vercel.app/
+    
   - name: Watch Nexo Knights
     url: https://watchnexoknights.vercel.app/
+    
   - name: Zug fahren
     url: https://zug-fahren.rf.gd/
+    
   - name: Zug fahren tmp
     url: https://zug-fahren-tp.vercel.app/
 
