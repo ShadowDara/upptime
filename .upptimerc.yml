@@ -4,6 +4,27 @@ repo: upptime
 sites:
   - name: samengine
     url: https://samengine.vercel.app/
+
+  - name: samengine js
+    url: https://samengine.js.org/
+
+  - name: l1nx
+    url: https://l1nx-one.vercel.app/
+
+  - name: blog
+    url: https://shadowdara.wordpress.com/
+
+  - name: Zug fahren
+    url: https://zug-fahren.vercel.app/
+
+  - name: GH Page
+    url: https://shadowdara.github.io/
+
+  - name: Ninjagonator
+    url: https://ninjagonator.ju.mp/
+
+  - name: Ninjagonator Static
+    url: https://ninjagonator.netlify.app/
     
   - name: Shadowdara - Vercel
     url: https://shadowdara.vercel.app/
@@ -25,9 +46,6 @@ sites:
     
   - name: Zug fahren
     url: https://zug-fahren.rf.gd/
-    
-  - name: Zug fahren tmp
-    url: https://zug-fahren-tp.vercel.app/
 
 status-website:
   baseUrl: /upptime
