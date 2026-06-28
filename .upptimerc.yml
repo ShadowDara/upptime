@@ -14,7 +14,7 @@ sites:
   - name: blog
     url: https://shadowdara.wordpress.com/
 
-  - name: Zug fahren
+  - name: Zug fahren Vercel
     url: https://zug-fahren.vercel.app/
 
   - name: GH Page
