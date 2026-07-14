@@ -249,16 +249,16 @@
     "url": "https://shadowdara.42web.io/",
     "icon": "https://icons.duckduckgo.com/ip3/shadowdara.42web.io.ico",
     "slug": "shadowdara-infinityfree",
-    "status": "down",
-    "uptime": "98.93%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.08%",
-    "uptimeYear": "98.77%",
+    "status": "up",
+    "uptime": "98.91%",
+    "uptimeDay": "92.56%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "98.84%",
+    "uptimeYear": "98.75%",
     "time": 804,
-    "timeDay": 437,
-    "timeWeek": 633,
-    "timeMonth": 541,
+    "timeDay": 550,
+    "timeWeek": 636,
+    "timeMonth": 544,
     "timeYear": 809,
     "dailyMinutesDown": {
       "2026-02-15": 178,
@@ -294,7 +294,7 @@
       "2026-06-16": 111,
       "2026-06-15": 43,
       "2026-06-28": 74,
-      "2026-07-14": 0
+      "2026-07-14": 107
     }
   },
   {
