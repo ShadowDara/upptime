@@ -130,18 +130,20 @@
     "url": "https://ninjagonator.netlify.app/",
     "icon": "https://icons.duckduckgo.com/ip3/ninjagonator.netlify.app.ico",
     "slug": "ninjagonator-static",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 444,
-    "timeDay": 564,
-    "timeWeek": 491,
-    "timeMonth": 510,
-    "timeYear": 444,
-    "dailyMinutesDown": {}
+    "time": 501,
+    "timeDay": 1888,
+    "timeWeek": 831,
+    "timeMonth": 595,
+    "timeYear": 501,
+    "dailyMinutesDown": {
+      "2026-08-13": 0
+    }
   },
   {
     "name": "Shadowdara - Vercel",
@@ -296,7 +298,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/no-fucking-cors.vercel.app.ico",
     "slug": "no-fucking-cors-vercel",
     "status": "up",
-    "uptime": "91.84%",
+    "uptime": "91.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
