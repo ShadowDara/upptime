@@ -244,19 +244,18 @@
     "url": "https://shadowdara.42web.io/",
     "icon": "https://icons.duckduckgo.com/ip3/shadowdara.42web.io.ico",
     "slug": "shadowdara-infinityfree",
-    "status": "up",
-    "uptime": "99.02%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.59%",
-    "uptimeMonth": "99.45%",
-    "uptimeYear": "98.78%",
+    "status": "down",
+    "uptime": "99.03%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "97.54%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "98.79%",
     "time": 799,
     "timeDay": 626,
     "timeWeek": 495,
     "timeMonth": 545,
     "timeYear": 798,
     "dailyMinutesDown": {
-      "2026-02-16": 39,
       "2026-02-17": 101,
       "2026-02-18": 146,
       "2026-02-19": 155,
@@ -290,7 +289,8 @@
       "2026-06-28": 74,
       "2026-07-14": 107,
       "2026-08-15": 17,
-      "2026-08-16": 225
+      "2026-08-16": 225,
+      "2026-08-22": 5
     }
   },
   {
@@ -299,7 +299,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/no-fucking-cors.vercel.app.ico",
     "slug": "no-fucking-cors-vercel",
     "status": "up",
-    "uptime": "92.00%",
+    "uptime": "92.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -395,19 +395,19 @@
     "url": "https://zug-fahren.rf.gd/",
     "icon": "https://icons.duckduckgo.com/ip3/zug-fahren.rf.gd.ico",
     "slug": "zug-fahren",
-    "status": "up",
-    "uptime": "99.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.87%",
+    "status": "down",
+    "uptime": "99.01%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "97.86%",
     "uptimeMonth": "99.51%",
-    "uptimeYear": "98.80%",
+    "uptimeYear": "98.81%",
     "time": 788,
     "timeDay": 858,
     "timeWeek": 593,
     "timeMonth": 597,
     "timeYear": 796,
     "dailyMinutesDown": {
-      "2026-02-15": 64,
+      "2026-02-15": 32,
       "2026-02-16": 242,
       "2026-02-17": 101,
       "2026-02-18": 145,
@@ -439,7 +439,8 @@
       "2026-06-16": 111,
       "2026-06-15": 38,
       "2026-06-28": 69,
-      "2026-08-16": 215
+      "2026-08-16": 215,
+      "2026-08-22": 0
     }
   }
 ]
