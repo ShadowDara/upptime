@@ -47,6 +47,9 @@ sites:
   - name: Zug fahren
     url: https://zug-fahren.rf.gd/
 
+  - name: CPP Registry
+    url: https://cpp-registry.github.io
+
   - name: Mysteriös Page
     url: https://mysterious-apokalyse-in-the-dark.netlify.app
 
