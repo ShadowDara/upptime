@@ -47,6 +47,12 @@ sites:
   - name: Zug fahren
     url: https://zug-fahren.rf.gd/
 
+  - name: Mysteriös Page
+    url: https://mysterious-apokalyse-in-the-dark.netlify.app
+
+  - name: De Page
+    url: shadowdara.de
+
 status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
