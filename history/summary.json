@@ -426,18 +426,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "de-page",
     "status": "down",
-    "uptime": "3.91%",
-    "uptimeDay": "3.91%",
-    "uptimeWeek": "3.91%",
-    "uptimeMonth": "3.91%",
-    "uptimeYear": "3.91%",
+    "uptime": "3.75%",
+    "uptimeDay": "3.75%",
+    "uptimeWeek": "3.75%",
+    "uptimeMonth": "3.75%",
+    "uptimeYear": "3.75%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-24": 9
+      "2026-11-24": 10
     }
   }
 ]
